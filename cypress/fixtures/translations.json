@@ -1,0 +1,10 @@
+{
+  "en": {
+    "login": "Login",
+    "welcome": "Welcome to our website!"
+  },
+  "cs": {
+    "login": "Přihlásit se",
+    "welcome": "Vítejte na našem webu!"
+  }
+}
